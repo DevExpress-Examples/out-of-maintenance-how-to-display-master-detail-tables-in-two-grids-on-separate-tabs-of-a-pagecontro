@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/SeparateGridsOnTabPages/Default.aspx) (VB: [Default.aspx.vb](./VB/SeparateGridsOnTabPages/Default.aspx.vb))
+* [Default.aspx.cs](./CS/SeparateGridsOnTabPages/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/SeparateGridsOnTabPages/Default.aspx.vb))
+<!-- default file list end -->
 # How to display master-detail tables in two grids on separate tabs of a PageControl
 
 
