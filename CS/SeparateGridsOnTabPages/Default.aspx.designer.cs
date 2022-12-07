@@ -35,7 +35,7 @@ namespace SeparateGridsOnTabPages {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxTabControl.ASPxPageControl ASPxPageControl1;
+        protected global::DevExpress.Web.ASPxPageControl ASPxPageControl1;
         
         /// <summary>
         /// gridSubCategories control.
@@ -44,7 +44,7 @@ namespace SeparateGridsOnTabPages {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView gridSubCategories;
+        protected global::DevExpress.Web.ASPxGridView gridSubCategories;
         
         /// <summary>
         /// sqlSubCategories control.
@@ -62,7 +62,7 @@ namespace SeparateGridsOnTabPages {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView gridProducts;
+        protected global::DevExpress.Web.ASPxGridView gridProducts;
         
         /// <summary>
         /// sqlProducts control.
